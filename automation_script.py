@@ -12,7 +12,6 @@ POS_3 = (1829, 146) # "Submit" button at the top right
 
 # Intermediate safe locations across the screen for "human-like" distraction movements
 INTERMEDIATE_POSITIONS = [(132,250), (147,345), (1835, 143)]
-
 # -----------------------------------------------
 
 def human_like_move(x, y):
