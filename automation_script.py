@@ -1,10 +1,9 @@
-import pyautogui
+import pyautogui 
 import random
 import time
 import keyboard
 # --- CONFIGURATION: UPDATE THESE COORDINATES ---
-# You can find the coordinates of your screen by using a tool or running a 
-# simple Python script that prints pyautogui.position()
+# You can find the coordinates of your screen by using a tool or running a  simple Python script that prints pyautogui position()
 POS_1 = (110, 260)  # Input field below "Select the two BEST images"
 POS_UNSELECT = (1058, 245) # Update with the exact coordinate for unselect
 POS_2 = (143, 345)  # Input field below "Select the two WORST Images"
